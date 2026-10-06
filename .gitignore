@@ -1,0 +1,5 @@
+.vitepress/cache
+.vitepress/dist
+**/.vitepress/dist
+data/guides-index.json
+node_modules
